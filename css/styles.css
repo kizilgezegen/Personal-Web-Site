@@ -1,0 +1,33 @@
+h1{
+    color: black;
+  }
+  body {
+    background-color: powderblue;
+  }
+  hr{
+    border-style:none;
+    background-color: chartreuse;
+    border-top-style: dotted;
+    height: 2px;
+    width: 30%;
+  }
+
+  div{
+    background-color: powderblue;
+    padding: 10px;
+  }
+
+  .profile{
+    background-color: pink;
+    width: 200px;
+    height: 150px;
+    border-radius: 100px;
+  }
+
+  .broccoli{
+    background-color: white;
+  }
+
+  #heading:hover{
+    color: royalblue;
+  }
