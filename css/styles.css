@@ -3,6 +3,7 @@ h1{
   }
   body {
     background-color: powderblue;
+    font-family: 'Mansalva', cursive;
   }
   hr{
     border-style:none;
@@ -30,4 +31,8 @@ h1{
 
   #heading:hover{
     color: royalblue;
+  }
+
+  #carouselExampleSlidesOnly{
+    background-color:black;
   }
